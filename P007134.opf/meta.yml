@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19945
   title: སྙིང་བོ་དོན་གྱི་གཏེར་མཛོད་མན་ངག་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    d830c790fc15461db123210bd950a66b:
+      image_group_id: I8LS19947
+      title: Volume 1 of snying bo don gyi gter mdzod man ngag rgya mtsho/
+      volume_number: 1
+      total_pages: 558
   author: ''
+ebook_metadata:
+  title: སྙིང་བོ་དོན་གྱི་གཏེར་མཛོད་མན་ངག་རྒྱ་མཚོ།
+  author: ''
+  sku: P007134
+  cover: cover.jpg
+  layers:
+  - pagination
